@@ -6,7 +6,12 @@ I am a PhD student at Humboldt-Universität zu Berlin. I am currently working on
 
 I received my MSc and BSc in physics from Humboldt-Universität zu Berlin, where I focused on computational solid-state theory.
 
-## Projects
+## Scientific projects
 
 * 🎓️ [Master's thesis](https://github.com/maxschebek/master-thesis)
 * ⚛️ [The exciting Code](http://exciting.wikidot.com/) (contributor)
+
+## Publications
+* 📝 Chirality of Valley Excitons in Monolayer Transition-Metal Dichalcogenides (co-author), [arXiv:2112.04781](https://arxiv.org/abs/2112.04781) 
+
+
