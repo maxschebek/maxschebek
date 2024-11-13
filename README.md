@@ -12,7 +12,9 @@ I received my MSc and BSc in physics from Humboldt-Universität zu Berlin, where
 * ⚛️ [The exciting Code](http://exciting.wikidot.com/) (contributor)
 
 ## Publications
-* 📝  Chirality of Valley Excitons in Monolayer Transition-Metal Dichalcogenides, [J. Phys. Chem. Lett. 2022, 13, 25, 5894–5899](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01034) (co-author)
-* 📝  Hybrid Materials: Still Challenging for Ab Initio Theory?,  [Phys. Status Solidi A 2300170](https://onlinelibrary.wiley.com/doi/10.1002/pssa.202300170) (co-author)
-
+* 📝Phonon-mediated renormalization of exciton energies and absorption spectra in polar semiconductors, [arXiv:2409.15099, 2024
+](https://arxiv.org/abs/2409.15099)
+* 📝  Efficient mapping of phase diagrams with conditional Boltzmann Generators,  [Mach. Learn.: Sci. Technol., 2023](https://iopscience.iop.org/article/10.1088/2632-2153/ad849d)) 
+* 📝  Hybrid Materials: Still Challenging for Ab Initio Theory?,  [Phys. Status Solidi A, 2023](https://onlinelibrary.wiley.com/doi/10.1002/pssa.202300170) 
+* 📝  Chirality of Valley Excitons in Monolayer Transition-Metal Dichalcogenides, [J. Phys. Chem. Lett., 2022](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01034) 
 
