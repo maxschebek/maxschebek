@@ -7,7 +7,7 @@ I am a theoretical physicist with an in interest in machine learning. Currently,
 I received my MSc and BSc in physics from Humboldt-Universität zu Berlin, where I focused on first-principles electronic structure calculations (DFT, GW, BSE) in solids.
 
 ## Scientific projects
-
+* ⚛️ [Conditional Boltzmann Generators](https://github.com/maxschebek/flow_diagrams)
 * 🎓️ [Master's thesis](https://github.com/maxschebek/master-thesis)
 * ⚛️ [The exciting Code](http://exciting.wikidot.com/) (contributor)
 
